@@ -6,4 +6,4 @@
 
 3. Klasę .scrollspy trzeba dodać w miejsce gdzie występuje dana sekcja strony oraz trzeba ustawić tej sekcji ID.
 
-4. Nawigacja musi być zbudowana w następujący sposób: <li class="nav-active"><a href="#ID_sekcji">...</a></li>
+<li class="nav-active"><a href="#ID_sekcji">...</a></li>
